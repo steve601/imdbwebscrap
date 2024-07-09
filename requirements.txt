@@ -1,0 +1,5 @@
+Python 3.x
+Selenium
+BeautifulSoup4
+pandas
+numpy
